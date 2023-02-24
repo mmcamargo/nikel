@@ -19,7 +19,7 @@ This repository contains the project developed under the tutelage of [Marcelo](h
 
 ## Technologies
 
-The technologies used in this course include:
+The technologies used in this application include:
 
 -   HTML5
 -   CSS3
@@ -28,7 +28,7 @@ The technologies used in this course include:
 
 ## Installation
 
-To use the projects and exercises in this repository, clone the repository to your local machine using the following command:
+To use this project, clone the repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/mmcamargo/nikel.git
