@@ -21,8 +21,8 @@ This repository contains the project developed under the tutelage of [Marcelo](h
 
 The technologies used in this course include:
 
--   HTML
--   CSS
+-   HTML5
+-   CSS3
 -   JavaScript
 -   Bootstrap
 
@@ -36,7 +36,7 @@ git clone https://github.com/mmcamargo/nikel.git
 
 ## Usage
 
-Each project and exercise is located in its own directory within the repository. To run a project or exercise, navigate to the directory and open the `index.html` file in your web browser.
+Locate the project directory in the repository and run it by opening the `index.html` file in your web browser.
 
 ## Contributing
 
